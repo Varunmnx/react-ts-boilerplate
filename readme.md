@@ -1,0 +1,29 @@
+- public
+- src
+  - assets
+  - components
+    - common-components
+    - layouts
+      - common.css
+      - index.tsx
+      - layout.tsx
+  - pages
+    - home.tsx
+    - index.tsx
+  - app.css
+  - app.tsx
+  - index.css
+  - main.tsx
+  - vite-env.d.ts
+- .env
+- .eslintrc.cjs
+- .gitignore 
+- index.html
+- package-lock.json
+- package.json
+- postcss.config.js
+- readme.md
+- tailwind.config.js
+- tsconfig.json
+- tsconfig.node.json
+- vite.config.ts
