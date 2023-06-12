@@ -1,3 +1,6 @@
+## React - ts tailwind-css boiler plate
+
+
 - public
 - src
   - assets
